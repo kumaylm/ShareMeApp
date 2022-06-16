@@ -1,5 +1,5 @@
 # The ShareMe Social Media App - A Pinterest Clone
-A fully responsive modern full stack image sharing social media application with all advanced social media features such as Google authentication, create/edit/delete/save images, like/comment on other people's posts, search and filter images and so much more.
+A fully responsive modern full stack image sharing social media application with all advanced social media features such as Google authentication, create/edit/delete/save images, like/comment on other people's posts, search and filter images, and so much more.
 
 ## Concepts Practiced
 - Advanced React Best Practices such as folder and file structure, hooks and refs

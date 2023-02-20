@@ -6,8 +6,9 @@ A fully responsive modern full stack image sharing social media application with
 - Google Authentication
 - Using Tailwind CSS to build out the entire user interface
 - Managing the entire content of the app using Sanity. Sanity is the unified content platform that’ll make the making of our entire app possible. <show sanity desk>
-- Through Sanity, you can manage text, images, and all other data using APIs.
-- Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
+
+Through Sanity, you can manage text, images, and all other data using APIs.
+Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
     
     
 ## Languages Implemented
@@ -20,7 +21,6 @@ A fully responsive modern full stack image sharing social media application with
     
  ![Screenshot (874)](https://user-images.githubusercontent.com/78344685/174021453-28caadf6-1ea4-4712-9e97-10123f901731.png)
 
- ![Screenshot (875)](https://user-images.githubusercontent.com/78344685/174021451-e1d3f27b-f1fb-42f5-84fb-78a0002edbfa.png)
     
  ![Screenshot (876)](https://user-images.githubusercontent.com/78344685/174021426-5cabd95a-2a0e-4f84-aa0e-be767b175b29.png)
 
